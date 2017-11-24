@@ -1,5 +1,6 @@
 package oe.stu.september;
 
+import oe.stu.november.TelescopingConstructor;
 import sun.applet.Main;
 
 import java.util.Scanner;

@@ -19,5 +19,6 @@ public class Factorial {
             factorial = factorial.multiply(new BigDecimal(1.0/i));
         }
         System.out.println(sum);
+
     }
 }
