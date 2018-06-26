@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SitDownClock">
+    <output-path>$PROJECT_DIR$/out/artifacts/SitDownClock</output-path>
+    <root id="archive" name="SitDownClock.jar">
+      <element id="directory" name="libs" />
+    </root>
+  </artifact>
+</component>
